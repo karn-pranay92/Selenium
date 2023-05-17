@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/3D Objects/jars/commons-codec-1.13 - Copy.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/3D Objects/jars/commons-codec-1.13.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/3D Objects/jars/commons-compress-1.18.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/3D Objects/jars/commons-io-2.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/3D Objects/jars/commons-lang3-3.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/3D Objects/jars/gson-2.8.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/3D Objects/jars/httpclient5-5.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/3D Objects/jars/httpcore5-5.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/3D Objects/jars/httpcore5-h2-5.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/3D Objects/jars/jar_files.zip"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/3D Objects/jars/jarchivelib-1.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/3D Objects/jars/jsoup-1.13.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/3D Objects/jars/slf4j-api-1.7.30.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/3D Objects/jars/webdrivermanager-4.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/3D Objects/jar_files/animal-sniffer-annotations-1.14.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/3D Objects/jar_files/byte-buddy-1.8.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/3D Objects/jar_files/checker-compat-qual-2.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/3D Objects/jar_files/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/3D Objects/jar_files/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/3D Objects/jar_files/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/3D Objects/jar_files/error_prone_annotations-2.1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/3D Objects/jar_files/guava-25.0-jre.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/3D Objects/jar_files/httpclient-4.5.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/3D Objects/jar_files/httpcore-4.4.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/3D Objects/jar_files/j2objc-annotations-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/3D Objects/jar_files/jsr305-1.3.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/3D Objects/jar_files/okhttp-3.10.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/3D Objects/jar_files/okio-1.14.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/3D Objects/jar_files/selenium-api-3.14.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/3D Objects/jar_files/selenium-chrome-driver-3.14.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/3D Objects/jar_files/selenium-edge-driver-3.14.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/3D Objects/jar_files/selenium-firefox-driver-3.14.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/3D Objects/jar_files/selenium-ie-driver-3.14.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/3D Objects/jar_files/selenium-java-3.14.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/3D Objects/jar_files/selenium-opera-driver-3.14.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/3D Objects/jar_files/selenium-remote-driver-3.14.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/3D Objects/jar_files/selenium-safari-driver-3.14.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/3D Objects/jar_files/selenium-support-3.14.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/3D Objects/TestNGjar/guava-19.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/3D Objects/TestNGjar/guice-4.1.0-no_aop.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/3D Objects/TestNGjar/javax.inject-1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/3D Objects/TestNGjar/jcommander-1.72.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/3D Objects/TestNGjar/poi-3.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/3D Objects/TestNGjar/snakeyaml-1.21.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/3D Objects/TestNGjar/testng-6.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/3D Objects/TestNGjar/testng-7.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/jar_files/commons-codec-1.13.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/jar_files/commons-compress-1.20.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/jar_files/commons-io-2.8.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/jar_files/commons-lang3-3.11.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/jar_files/gson-2.8.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/jar_files/httpclient5-5.0.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/jar_files/httpcore5-5.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/jar_files/httpcore5-h2-5.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/jar_files/jarchivelib-1.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/jar_files/jsoup-1.13.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/jar_files/slf4j-api-1.7.30.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/jar_files/webdrivermanager-4.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/Tess4J-3.4.8-src/Tess4J/dist/tess4j-3.4.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/selenium-htmlunit-driver-2.21.0.jar/selenium-htmlunit-driver-2.21.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
